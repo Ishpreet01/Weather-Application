@@ -1,1 +1,16 @@
-This project was made as a part of my initial stages while learning frontend and backend development. This website takes access to the user's current location and shows the weather conditions at that location. You can also search for any city of your choice to see the weather at that place. It uses openweather API to get the weather data and display it for the user. 
+<p align="center">
+<img src="https://www.htmlhints.com/image/react/reactWeatherApp.png" width="100%">
+</p>
+
+<p align="center">
+  View Complete <a href="https://www.htmlhints.com/article/how-to-create-weather-app-using-reactjs-with-current-location-search-city/93">Installation details</a>.
+ </p>
+ <p align="center">
+  View <a href="https://master.d2gxbs6vwhkz68.amplifyapp.com/">Live demo</a>.
+ </p>
+
+## Setup
+
+```
+npm i && npm start
+```
